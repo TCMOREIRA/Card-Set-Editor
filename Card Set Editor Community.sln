@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Card Set Editor Community.CSharp", "Card Set Editor Community.CSharp.csproj", "{B363984F-2AB2-FD33-9F97-17CEA2E8CADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B363984F-2AB2-FD33-9F97-17CEA2E8CADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B363984F-2AB2-FD33-9F97-17CEA2E8CADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B363984F-2AB2-FD33-9F97-17CEA2E8CADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B363984F-2AB2-FD33-9F97-17CEA2E8CADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

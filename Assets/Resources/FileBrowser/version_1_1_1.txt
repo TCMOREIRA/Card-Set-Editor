@@ -1,0 +1,18 @@
+verson 1.1.1
+- Fixed draw calls issue when there is numerous files.
+
+version 1.1.0
+
+- Can now favorites folders and add them to the common folders list.
+- Thumbnails display for most common pictures format (jpg, png, gif, and bmp). Multithreaded.
+- Folders sorting options (name, date, and type).
+- Basic tools for folder and file managment (renaming, deletion, and folder creation).
+- Search tool now multithreaded.
+First approach to layout options.
+
+version 1.0.0
+
+- Simple folder navigation
+- Search tool
+- Access to common folders (deskop, pictures, etc...)
+- File filters
